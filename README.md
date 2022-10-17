@@ -3,6 +3,7 @@
 
 Мой стек технологий: 
 - JavaScript ES6
+-PHP
 - React
 - React hooks
 - Redux
